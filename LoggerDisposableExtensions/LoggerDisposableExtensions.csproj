@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <PackageId>AJax-$(AssemblyName)</PackageId>
+    <Company>Gardner Web and Tech</Company>
+    <PackageProjectUrl>https://github.com/AJax2012/LoggerDisposableExtensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AJax2012/LoggerDisposableExtensions</RepositoryUrl>
+    <Authors>Adam Gardner</Authors>
   </PropertyGroup>
 
   <ItemGroup>
