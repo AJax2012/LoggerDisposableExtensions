@@ -9,6 +9,7 @@
     <PackageProjectUrl>https://github.com/AJax2012/LoggerDisposableExtensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/AJax2012/LoggerDisposableExtensions</RepositoryUrl>
     <Authors>Adam Gardner</Authors>
+	<PackageOutputPath>./nupkg</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
